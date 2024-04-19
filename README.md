@@ -7,6 +7,9 @@
 <a href="https://github.com/amirbarfar">
     <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github">
 </a> 
+<a href="https://www.instagram.com/im._.emir12">
+    <img src="https://img.shields.io/badge/instagram-pink?style=flat-square&logo=instagram">
+</a> 
 <a href="https://t.me/im_emir12">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
