@@ -10,7 +10,7 @@
 <a href="https://t.me/im_emir12">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
-<a href="mailto:matinsoleymni@gmail.com">
+<a href="mailto:amirbarfar43@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br/> 
