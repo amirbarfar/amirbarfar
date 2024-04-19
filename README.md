@@ -10,14 +10,10 @@
 <a href="https://t.me/im_emir12">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
-<a href="https://www.instagram.com/im._.emir12/">
-    <img src="https://img.shields.io/badge/-instagram-blue?style=flat-square&logo=linkedin">
-</a>
 <a href="mailto:matinsoleymni@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br/> 
-
 <a href="https://github.com/amirbarfar">
     <img src="https://github-stats-alpha.vercel.app/api?username=amirbarfar&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
 </a>
