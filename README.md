@@ -5,17 +5,14 @@
 <br/>
 
 <a href="https://github.com/amirbarfar">
-    <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github">
 </a> 
 <a href="https://www.instagram.com/im._.emir12">
-    <img src="https://img.shields.io/badge/instagram-pink?style=flat-square&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram">
 </a> 
 <a href="https://t.me/im_emir12">
-    <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram">
 </a> 
-<a href="mailto:amirbarfar43@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
 <br/> 
 <a href="https://github.com/amirbarfar">
     <img src="https://github-stats-alpha.vercel.app/api?username=amirbarfar&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
@@ -25,7 +22,6 @@
 
 <a href="https://github.com/amirbarfar">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,figma,github,git,vscode,md,alpinejs,electron,seo,react,next,php,laravel&perline=6" />
+         <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,figma,github,git,vscode,md,alpinejs,electron,react,next,php,laravel&perline=8" />
     </p>
-   
 </a>
