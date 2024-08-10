@@ -22,6 +22,6 @@
 
 <a href="https://github.com/amirbarfar">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,figma,github,git,vscode,md,pwa,electron,react,next,php,laravel&perline=8" />
+         <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,figma,github,git,vscode,md,electron,react,next,php,laravel&perline=8" />
     </p>
 </a>
