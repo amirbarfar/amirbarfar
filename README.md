@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/amirbarfar">
-    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Amir+barfar;Midlevel; FullStack Developer" alt="Typing SVG" />
+<a href="https://github.com/amirbarfar" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&pause=1000&width=300&lines=Amirhossin+barfar;Full-Stack+Web+Developer" alt="Typing SVG" />
 </a>
 <br/>
 
